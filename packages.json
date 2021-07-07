@@ -1,0 +1,10 @@
+[
+  {
+    "package": "dodv",
+    "url": "https://github.com/mrustl/dodv"
+  },
+  {
+    "package": "fvbb.scorer",
+    "url": "https://github.com/mrustl/fvbb.scorer"
+  }
+]

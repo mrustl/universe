@@ -6,5 +6,9 @@
   {
     "package": "fvbb.scorer",
     "url": "https://github.com/mrustl/fvbb.scorer"
+  },
+  {
+    "package": "tigo",
+    "url": "https://github.com/mrustl/tigo"
   }
 ]

@@ -8,6 +8,10 @@
     "url": "https://github.com/mrustl/fvbb.scorer"
   },
   {
+    "package": "mastr",
+    "url": "https://github.com/mrustl/mastr"
+  },
+  {
     "package": "tigo",
     "url": "https://github.com/mrustl/tigo"
   }

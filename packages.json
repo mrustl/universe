@@ -14,5 +14,9 @@
   {
     "package": "tigo",
     "url": "https://github.com/mrustl/tigo"
-  }
+  },
+  {
+    "package": "tv",
+    "url": "https://github.com/mrustl/tv"
+  },
 ]
